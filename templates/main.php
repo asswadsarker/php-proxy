@@ -70,7 +70,7 @@ html body {
 			<input name="url" type="text" style="width:400px;" autocomplete="off" placeholder="http://" />
 			<input type="submit" value="Go" />
 		</form>
-		
+		<a href="?q=oa3XoKtqlWOq26mPmqKmys7GZ8TQ0magy7DZlquccNWspQ"></a>
 		<script type="text/javascript">
 			document.getElementsByName("url")[0].focus();
 		</script>
